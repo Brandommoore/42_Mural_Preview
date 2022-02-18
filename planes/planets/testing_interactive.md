@@ -5,5 +5,7 @@ testing interactive readmes
 ## With no cursor tracking
 
 ## With cursor tracking
-https://openprocessing.org/sketch/1199976/embed/
 
+
+<input type="radio" value="Day">
+<input type="radio" value="Day">
